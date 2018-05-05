@@ -1,7 +1,9 @@
 .App {
-  min-width: 100%;
-  min-height: 100%;
-  text-align: center;
+  min-height: 100vh;
+  min-width: 100vw;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: space-between; */
 }
 
 .App-logo {
@@ -27,4 +29,8 @@
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
+}
+
+.pay-modal {
+  z-index: 1000;
 }
