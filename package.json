@@ -9,7 +9,8 @@
     "react-infinite-calendar": "^2.3.1",
     "react-modal": "^3.4.4",
     "react-router-dom": "^4.2.2",
-    "react-scripts": "1.1.4"
+    "react-scripts": "1.1.4",
+    "react-square-hosted-fields": "^1.2.4"
   },
   "scripts": {
     "start": "react-scripts start",

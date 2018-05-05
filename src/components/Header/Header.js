@@ -6,7 +6,7 @@ const Header = () => {
     <header>
       <nav>
         <div className="nav-wrapper z-depth-3 blue">
-          <Link to="/" className="brand-logo center">New Parents Support</Link>
+          <Link to="/" className="brand-logo center">New Parent Support</Link>
           <ul id="nav-mobile" className="left hide-on-med-and-down">
             <li><Link to="/">home</Link></li>
             <li><Link to="/schedule">schedule</Link></li>
